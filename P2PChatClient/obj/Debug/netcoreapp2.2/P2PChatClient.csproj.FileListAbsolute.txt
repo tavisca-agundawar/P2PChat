@@ -1,0 +1,11 @@
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\bin\Debug\netcoreapp2.2\P2PChatClient.deps.json
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\bin\Debug\netcoreapp2.2\P2PChatClient.runtimeconfig.json
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\bin\Debug\netcoreapp2.2\P2PChatClient.runtimeconfig.dev.json
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\bin\Debug\netcoreapp2.2\P2PChatClient.dll
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\bin\Debug\netcoreapp2.2\P2PChatClient.pdb
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\obj\Debug\netcoreapp2.2\P2PChatClient.csproj.CoreCompileInputs.cache
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\obj\Debug\netcoreapp2.2\P2PChatClient.AssemblyInfoInputs.cache
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\obj\Debug\netcoreapp2.2\P2PChatClient.AssemblyInfo.cs
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\obj\Debug\netcoreapp2.2\P2PChatClient.dll
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\obj\Debug\netcoreapp2.2\P2PChatClient.pdb
+C:\Users\agundawar\source\repos\P2PChat\P2PChatClient\obj\Debug\netcoreapp2.2\P2PChatClient.csprojAssemblyReference.cache
